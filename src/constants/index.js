@@ -35,7 +35,7 @@ export const PROJECTS = [
     description:
       "A personal portfolio website showcasing projects, skills, and contact information.",
     technologies: ["HTML", "CSS", "React", "Bootstrap"],
-    githubLink: 'https://vivekportfolio-24.netlify.app/',
+    githubLink: 'https://github.com/Viveksingh579/Portfolio',
   }
   
 ];
